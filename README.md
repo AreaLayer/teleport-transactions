@@ -101,7 +101,7 @@ If you're interested in contributing to the project, explore the [open issues](h
 - [x] Fix all clippy warnings.
 - [ ] Achieve >80% test coverage, including bad and recovery paths in integration tests.
 - [ ] Switch to binary encoding for wallet data storage and network messages.
-- [ ] Implement configuration file support for Takers and Makers.
+- [x] Implement configuration file support for Takers and Makers.
 - [ ] Deploy standalone binaries for Maker.
 - [ ] Secure wallet file storage through encryption.
 - [ ] Establish Maker marketplace via nostr relays.
